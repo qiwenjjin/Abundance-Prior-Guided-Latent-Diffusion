@@ -4,7 +4,7 @@ Code for papaer Abundance Prior-Guided Latent Diffusion: A Spatial-Frequency Coo
 
 ## The proposed framework
 
-![mainframe](mainframe.png)
+![mainframe](main_frame.png)
 
 ## The visulization of the HSI-SR reconstructed results
 
